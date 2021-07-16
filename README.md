@@ -8,7 +8,7 @@
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-    <a href="" target="_blank"> <img src="file:///C:/Users/ved%20ratan/Downloads/images.png" alt="express" width"40" height"40"/> </a>   
+    <a href="" target="_blank"> <img src="file:///C:/Users/ved%20ratan/Downloads/images.png" width"40" height"40"/> </a>   
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
     <a href="" target="_blank"> <img src="https://isocpp.org/assets/images/cpp_logo.png" alt="express" width="40" height="40"/> </a>
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a>    
