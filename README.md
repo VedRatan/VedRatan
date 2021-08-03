@@ -8,7 +8,7 @@
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-    <a style="padding top:16px;" href="" target="_blank"> <img src="https://lh3.googleusercontent.com/proxy/nMN4cLWzxXqRz4ony6KjFs_G9r2gmGT8DeeQu89UDW5r7qOgZfnevdEQ9WUasQhz7aeInPn6SKrADCGol4AheMPDdgdJ4fdRbMpqlGYnGBJY8IjkkMi_geKK9A" alt="express" width="60" height="70"/> </a>   
+    <a style="padding top:16px;" href="" target="_blank"> <img src="https://freepikpsd.com/media/2019/10/adobe-photoshop-logo-png-5-Transparent-Images.png" alt="express" width="60" height="60"/> </a>   
     <a href="" target="_blank"> <img src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png" alt="express" width="60" height="40"/> </a>   
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
     <a href="" target="_blank"> <img src="https://isocpp.org/assets/images/cpp_logo.png" alt="express" width="40" height="40"/> </a>
