@@ -15,7 +15,7 @@
     <a href="" target="_blank"> <img src="https://isocpp.org/assets/images/cpp_logo.png" alt="express" width="40" height="40"/> </a>
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a>    
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/></a> 
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://sdtimes.com/wp-content/uploads/2015/11/1103.sdt-chef.png" alt="express" width="50" height="50"/></a>
+  <a href="https://www.chef.io/" target="_blank"> <img src="https://sdtimes.com/wp-content/uploads/2015/11/1103.sdt-chef.png" alt="express" width="40" height="40"/></a>
   </p>
  
 <p align="center">
