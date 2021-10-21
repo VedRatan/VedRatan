@@ -15,7 +15,7 @@
     <a href="" target="_blank"> <img src="https://isocpp.org/assets/images/cpp_logo.png" alt="express" width="40" height="40"/> </a>
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a>    
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/></a> 
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://i1.wp.com/eduardolezcano.com/wp-content/uploads/2016/12/chef-logo.jpg?fit=1280%2C771&ssl=1"/></a>
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.pngfind.com/pngs/m/49-490566_chef-introduces-compliance-tools-chef-devops-logo-hd.png"/></a>
   </p>
  
 <p align="center">
