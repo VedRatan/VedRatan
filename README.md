@@ -8,15 +8,15 @@
 ## 🚀 Languages and Tools:
 
 <p align="left">
-    <a style="padding top:16px;" href="https://www.adobe.com/in/products/photoshop.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" alt="express" width="50" height="50"/> </a>   
+    <a style="padding top:16px;" href="https://www.adobe.com/in/products/photoshop.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" alt="express" width="40" height="40"/> </a>   
     <a href="https://www.java.com/en/" target="_blank"> <img src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png" alt="express" width="60" height="40"/> </a> 
- <a href="https://developer.android.com/studio?gclid=Cj0KCQjwpreJBhDvARIsAF1_BU3DdmjQO4vjKsd4XaAVkskn4NxtW1F1nBcOAZIyYT4hfh3DCwL4mzQaAjLvEALw_wcB&gclsrc=aw.ds" target="_blank"> <img src="https://icon-library.com/images/android-studio-icon/android-studio-icon-8.jpg" alt="express" width="50" height="50"/> </a> 
+ <a href="https://developer.android.com/studio?gclid=Cj0KCQjwpreJBhDvARIsAF1_BU3DdmjQO4vjKsd4XaAVkskn4NxtW1F1nBcOAZIyYT4hfh3DCwL4mzQaAjLvEALw_wcB&gclsrc=aw.ds" target="_blank"> <img src="https://icon-library.com/images/android-studio-icon/android-studio-icon-8.jpg" alt="express" width="40" height="40"/> </a> 
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
     <a href="" target="_blank"> <img src="https://isocpp.org/assets/images/cpp_logo.png" alt="express" width="40" height="40"/> </a>
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a>    
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/></a> 
   <a href="https://www.chef.io/" target="_blank"> <img src="https://sdtimes.com/wp-content/uploads/2015/11/1103.sdt-chef.png" alt="express" width="40" height="40"/></a>
-  <a href="https://www.chef.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/2101px-Adobe_XD_CC_icon.svg.png" alt="express" width="40" height="40"/></a>
+  <a href="https://www.adobe.com/in/products/xd.html?sdid=12B9F15S&mv=Search&ef_id=CjwKCAjwn8SLBhAyEiwAHNTJbea2bFG3il2ZHd7oHMQd1tv71ymGMz6r_RJFnLr218ALsZs8rAnpUBoCf7UQAvD_BwE:G:s&s_kwcid=AL!3085!3!526748867471!e!!g!!adobe%20xd!1641846448!65452677551" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/2101px-Adobe_XD_CC_icon.svg.png" alt="express" width="40" height="40"/></a>
   </p>
  
 <p align="center">
