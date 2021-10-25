@@ -17,7 +17,7 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/></a> 
   <a href="https://www.chef.io/" target="_blank"> <img src="https://sdtimes.com/wp-content/uploads/2015/11/1103.sdt-chef.png" alt="express" width="40" height="40"/></a>
   <a href="https://www.adobe.com/in/products/xd.html?sdid=12B9F15S&mv=Search&ef_id=CjwKCAjwn8SLBhAyEiwAHNTJbea2bFG3il2ZHd7oHMQd1tv71ymGMz6r_RJFnLr218ALsZs8rAnpUBoCf7UQAvD_BwE:G:s&s_kwcid=AL!3085!3!526748867471!e!!g!!adobe%20xd!1641846448!65452677551" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/2101px-Adobe_XD_CC_icon.svg.png" alt="express" width="40" height="40"/></a>
- <a href="https://www.docker.com/" target="_blank"> <img src="https://raisingcodeblog.com/wp-content/uploads/2019/03/whale-from-docker-logo-small-min.png" alt="express" width="40" height="40"/></a>
+ <a href="https://www.docker.com/" target="_blank"> <img src="https://raisingcodeblog.com/wp-content/uploads/2019/03/whale-from-docker-logo-small-min.png" alt="express" width="80" height="80"/></a>
   </p>
  
 <p align="center">
