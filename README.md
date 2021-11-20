@@ -20,7 +20,7 @@
  <a href="https://www.docker.com/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/docker-3050921-2538289.png" alt="express" width="50" height="50"/></a>
   <a href="https://ubuntu.com/" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/ubuntu-4-logo-png-transparent.png" width="40" height="40"/></a>
  <a href="https://www.ansible.com/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVCkOsc7-bx-hIjl1sifNuE6m6GL1OLMLrEg&usqp=CAU" width="40" height="40"/></a>
- <a href="https://ubuntu.com/" target="_blank"> <img src="https://www.pngitem.com/pimgs/m/441-4419397_jenkins-logo-png-transparent-png.png" width="60" height="40"/></a>
+ <a href="https://ubuntu.com/" target="_blank"> <img src="https://www.pngitem.com/pimgs/m/441-4419397_jenkins-logo-png-transparent-png.png" width="50" height="40"/></a>
   </p>
  
 <p align="center">
