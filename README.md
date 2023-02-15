@@ -73,4 +73,4 @@
 </p>
  
 ## ❤ Views and Followers
-<a href="https://github.com/VedRatan?tab=followers"><img src="https://img.shields.io/github/followers/VedRatan?label=Followers&style=social" alt="GitHub Badge"></a>   ![Profile views](https://gpvc.arturio.dev/kailash360)  
+<a href="https://github.com/VedRatan?tab=followers"><img src="https://img.shields.io/github/followers/VedRatan?label=Followers&style=social" alt="GitHub Badge"></a>   ![Profile views](https://gpvc.arturio.dev/VedRatan)  
