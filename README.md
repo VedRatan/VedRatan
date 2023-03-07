@@ -23,6 +23,7 @@
  <a href="https://www.ansible.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="40" height="40"/></a>
  <a href="https://www.jenkins.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" height="40"/></a>
  <a href="https://www.terraform.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" height="40"/></a>
+  <a href="https://prometheus.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="40" height="40"/></a>
  <a href = "https://argo-cd.readthedocs.io/en/stable/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" width="40" height="40"/></a>
  <a href="https://www.mongodb.com/realm/lp?utm_source=google&utm_campaign=gs_footprint_row_search_brand_realm_atlas_product_desktop&utm_term=realm%20mongo&utm_medium=cpc_paid_search&utm_ad=p&utm_ad_campaign_id=11303420057&adgroup=118482427679&gclid=Cj0KCQjw3IqSBhCoARIsAMBkTb1u6kC1KU0w_bZoZXfzzPs6O45wy10rSjTi2bwubxeIcq20RbiL2h4aArmNEALw_wcB" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/></a>
  
@@ -33,7 +34,7 @@
 <a href="https://expressjs.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height = "40"/></a> 
  <a href="https://reactjs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height = "40"/></a> 
 <a href="https://flutter.dev/?gclid=Cj0KCQiAveebBhD_ARIsAFaAvrF0zUh1LMrOPTRuGKqKPZyChuY9cvdQkyjujlMcs93nOalHP-eDONoaAi4WEALw_wcB&gclsrc=aw.ds"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height = "40"/></a>
- <a href = "https://go.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" height = "40"/></a>
+ <a href = "https://go.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" height = "40"/></a>
  
   </p>
  
