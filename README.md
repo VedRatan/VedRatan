@@ -32,7 +32,9 @@
 <a href="https://nodejs.org/en/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height = "40"/></a> 
 <a href="https://expressjs.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height = "40"/></a> 
  <a href="https://reactjs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height = "40"/></a> 
-<a href="https://flutter.dev/?gclid=Cj0KCQiAveebBhD_ARIsAFaAvrF0zUh1LMrOPTRuGKqKPZyChuY9cvdQkyjujlMcs93nOalHP-eDONoaAi4WEALw_wcB&gclsrc=aw.ds"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height = "40"/></a>  
+<a href="https://flutter.dev/?gclid=Cj0KCQiAveebBhD_ARIsAFaAvrF0zUh1LMrOPTRuGKqKPZyChuY9cvdQkyjujlMcs93nOalHP-eDONoaAi4WEALw_wcB&gclsrc=aw.ds"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height = "40"/></a>
+ <a href = "https://go.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" /></a>
+ 
   </p>
  
 <p align="center">
