@@ -33,6 +33,8 @@
 <a href="https://nodejs.org/en/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height = "40"/></a> 
 <a href="https://expressjs.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height = "40"/></a> 
  <a href="https://reactjs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height = "40"/></a> 
+  <a href="https://nextjs.org/"><img src="https://images.ctfassets.net/hb3id6ag4raq/6NcXL0fTlSXR9tVL14LYJ/c6a2a3dea44cbf46826cd6d5596b5797/apple-touch-icon.png" width="40" height = "40"/></a> 
+  <a href="https://tailwindcss.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height = "40"/></a> 
 <a href="https://flutter.dev/?gclid=Cj0KCQiAveebBhD_ARIsAFaAvrF0zUh1LMrOPTRuGKqKPZyChuY9cvdQkyjujlMcs93nOalHP-eDONoaAi4WEALw_wcB&gclsrc=aw.ds"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height = "40"/></a>
  <a href = "https://go.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" height = "40"/></a>
  
