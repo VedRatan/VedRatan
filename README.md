@@ -10,6 +10,7 @@
 <p align="left">
     <a style="padding top:16px;" href="https://www.adobe.com/in/products/photoshop.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" alt="express" width="40" height="40"/> </a>   
     <a href="https://www.java.com/en/" target="_blank"> <img src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png" alt="express" width="60" height="40"/> </a> 
+  <a href = "https://go.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" height = "40"/></a>
  <a href="https://dart.dev/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="express" width="40" height="40"/> </a> 
  <a href="https://developer.android.com/studio?gclid=Cj0KCQjwpreJBhDvARIsAF1_BU3DdmjQO4vjKsd4XaAVkskn4NxtW1F1nBcOAZIyYT4hfh3DCwL4mzQaAjLvEALw_wcB&gclsrc=aw.ds" target="_blank"> <img src="https://icon-library.com/images/android-studio-icon/android-studio-icon-8.jpg" alt="express" width="40" height="40"/> </a> 
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
@@ -24,6 +25,7 @@
  <a href="https://www.jenkins.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" height="40"/></a>
  <a href="https://www.terraform.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" height="40"/></a>
   <a href="https://prometheus.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="40" height="40"/></a>
+  <a href = "https://kubernetes.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height = "40"/></a>
  <a href = "https://argo-cd.readthedocs.io/en/stable/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" width="40" height="40"/></a>
  <a href="https://www.mongodb.com/realm/lp?utm_source=google&utm_campaign=gs_footprint_row_search_brand_realm_atlas_product_desktop&utm_term=realm%20mongo&utm_medium=cpc_paid_search&utm_ad=p&utm_ad_campaign_id=11303420057&adgroup=118482427679&gclid=Cj0KCQjw3IqSBhCoARIsAMBkTb1u6kC1KU0w_bZoZXfzzPs6O45wy10rSjTi2bwubxeIcq20RbiL2h4aArmNEALw_wcB" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/></a>
  
@@ -36,7 +38,7 @@
   <a href="https://nextjs.org/"><img src="https://images.ctfassets.net/hb3id6ag4raq/6NcXL0fTlSXR9tVL14LYJ/c6a2a3dea44cbf46826cd6d5596b5797/apple-touch-icon.png" width="40" height = "40"/></a> 
   <a href="https://tailwindcss.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height = "40"/></a> 
 <a href="https://flutter.dev/?gclid=Cj0KCQiAveebBhD_ARIsAFaAvrF0zUh1LMrOPTRuGKqKPZyChuY9cvdQkyjujlMcs93nOalHP-eDONoaAi4WEALw_wcB&gclsrc=aw.ds"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height = "40"/></a>
- <a href = "https://go.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" height = "40"/></a>
+
  
   </p>
  
