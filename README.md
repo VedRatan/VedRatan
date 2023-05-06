@@ -25,6 +25,7 @@
   <a href="https://www.nginx.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" height="40"/></a>
  <a href="https://www.jenkins.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" height="40"/></a>
  <a href="https://www.terraform.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" height="40"/></a>
+  <a href="https://www.terraform.io/" target="_blank"><img src="file:///C:/Users/vedra/Downloads/certbot-svgrepo-com.svg" width="40" height="40"/></a>
   <a href="https://prometheus.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="40" height="40"/></a>
   <a href = "https://kubernetes.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height = "40"/></a>
  <a href = "https://argo-cd.readthedocs.io/en/stable/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" width="40" height="40"/></a>
