@@ -22,6 +22,7 @@
  <a href="https://www.docker.com/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/docker-3050921-2538289.png" alt="express" width="50" height="50"/></a>
   <a href="https://ubuntu.com/" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/ubuntu-4-logo-png-transparent.png" width="40" height="40"/></a>
  <a href="https://www.ansible.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="40" height="40"/></a>
+  <a href="https://www.nginx.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" height="40"/></a>
  <a href="https://www.jenkins.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" height="40"/></a>
  <a href="https://www.terraform.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" height="40"/></a>
   <a href="https://prometheus.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="40" height="40"/></a>
